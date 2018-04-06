@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1523025153 source:/home/dario/Escritorio/TP_1/Funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funcion.h"
+
+1523026117 source:/home/dario/Escritorio/TP_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Funcion.h"
+
+1523023079 /home/dario/Escritorio/TP_1/Funcion.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
